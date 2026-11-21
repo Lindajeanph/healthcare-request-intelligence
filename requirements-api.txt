@@ -1,0 +1,7 @@
+# Install a CUDA-enabled PyTorch build separately using the Colab runtime.
+transformers>=4.51
+accelerate
+peft
+fastapi
+uvicorn
+requests

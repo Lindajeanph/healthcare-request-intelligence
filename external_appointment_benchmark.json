@@ -1,0 +1,21 @@
+{
+  "n": 68,
+  "source": "Synthetic Hospital-Robot Conversational Dataset, external synthetic appointment subset, manually annotated",
+  "baseline": {
+    "category_accuracy": 0.8382,
+    "category_macro_f1": 0.912,
+    "valid_json_rate": 1.0,
+    "priority_accuracy": 0.8824,
+    "action_accuracy": 0.2059,
+    "exact_match": 0.1912
+  },
+  "fine_tuned": {
+    "category_accuracy": 0.8676,
+    "category_macro_f1": 0.9291,
+    "valid_json_rate": 1.0,
+    "priority_accuracy": 0.9412,
+    "action_accuracy": 0.8824,
+    "exact_match": 0.8088
+  },
+  "note": "Rounded values transcribed from user-provided Colab summary; primary JSON evaluation outputs should supersede these when available."
+}
